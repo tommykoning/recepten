@@ -29,12 +29,12 @@ Probeer je pagina te stijlen met CSS!
 
 ###Bronnen
 ####HTML & CSS
-[w3schools HTML](http://www.w3schools.com/html/)
-[w3schools CSS](http://www.w3schools.com/css/)
-[HTML Dog HTML](http://htmldog.com/guides/html/)
-[HTML Dog CSS](http://htmldog.com/guides/css/)
+* [w3schools HTML](http://www.w3schools.com/html/)
+* [w3schools CSS](http://www.w3schools.com/css/)
+* [HTML Dog HTML](http://htmldog.com/guides/html/)
+* [HTML Dog CSS](http://htmldog.com/guides/css/)
 
 ####Inspiratie
-[Maggi.nl recepten](https://maggi.nl/recepten/)
-[AH Allerhande](http://www.ah.nl/allerhande/)
-[Leuke Recepten](https://www.leukerecepten.nl/)
+* [Maggi.nl recepten](https://maggi.nl/recepten/)
+* [AH Allerhande](http://www.ah.nl/allerhande/)
+* [Leuke Recepten](https://www.leukerecepten.nl/)
