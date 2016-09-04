@@ -11,7 +11,8 @@ Wie ben ik moet aan de volgende functionele eisen voldoen:
 * De pagina bevat een overzicht met daarin de bereidingstijd en voor hoeveel personen het gerecht is. 
 * De pagina bevat een lijst met alle benodigde ingrediënten.
 * De pagina bevat een lijst met daarin de bereidingswijze van het gerecht.
-* De pagina bevat afbeeldingen die de content van de pagina verduidelijken. 
+* De pagina bevat afbeeldingen die de content van de pagina verduidelijken.
+* De teksten van je pagina zijn geschreven in correct Nederlands!
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
