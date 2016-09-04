@@ -33,6 +33,7 @@ Probeer je pagina te stijlen met CSS!
 * [w3schools CSS](http://www.w3schools.com/css/)
 * [HTML Dog HTML](http://htmldog.com/guides/html/)
 * [HTML Dog CSS](http://htmldog.com/guides/css/)
+* [Codecademy HTML & CSS](https://www.codecademy.com/learn/web)
 
 ####Inspiratie
 * [Maggi.nl recepten](https://maggi.nl/recepten/)
