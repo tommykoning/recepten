@@ -1,5 +1,5 @@
 ##Recepten
-Voor deze opdracht ga je een webpagina maken met een recept voor een gerecht. Welk gerecht je gaat beschrijven wordt bepaalt in overleg met je opdrachtgever (docent).
+Voor deze opdracht ga je een webpagina maken met een recept voor een gerecht. Welk gerecht je gaat beschrijven bepaal je samen met je opdrachtgever (docent).
 
 De opdracht bestaat wederom uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
