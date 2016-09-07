@@ -12,6 +12,17 @@ body {
 	border-style: solid;
 	border-color: red }
 
+nav {  
+	color: white; 
+	margin: 25px 100px ;}
+
 p {
-	color: white; }
+	color: white;
+	margin: 25px 50px ; }
+
+article {float: left; 
+	content: 0px 50% 0px 10%; 
+	padding: 10px 25px 20px 25px; 
+	border-style: solid; border-color: white; width: 20%;
+	margin: 25px 25px 25px 100px }
 
