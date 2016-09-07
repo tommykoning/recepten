@@ -1,0 +1,17 @@
+body { 
+	background-image: url(https://images3.alphacoders.com/108/108105.jpg);
+	background-position: center;
+	background-attachment: fixed; 
+	background-repeat: repeat-x;
+	background-color: black; 
+	background-blend-mode: normal;}
+
+#banner { 
+	display: block;
+	margin: auto;
+	border-style: solid;
+	border-color: red }
+
+p {
+	color: white; }
+
